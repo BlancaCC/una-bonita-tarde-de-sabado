@@ -1,10 +1,24 @@
-#Curso git
+# Curso git   
 
-1. instalamos git, ssh (open ssh)
-2. `git clone url`
+1. instalado `git`, ssh (open ssh)
+2. `git clone url`.
+   
+## Subimos 
 
-##Subimos
+1. Añadir los archivos a subir `git add <nombreFichero o carpeta>`
+2. Añadir la descripción `git commit`
+3. Subir `git push`
 
-1. Añadir los archivos a subir `git`
+# Para actualizar 
+`git pull`
 
-## Hey brother
+## Crear ramas 
+
+`git checkout -b creo-naves` crea rama *creo-nave* y se mueve a ella. 
+
+Si solo cambiar `git checkout`
+
+
+
+
+
